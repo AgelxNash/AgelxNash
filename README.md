@@ -10,7 +10,7 @@
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AgelxNash&layout=compact&langs_count=8&card_width=320" />
 </p>
 
-<h3>Languages</h3>
+### Languages
 [![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://career.habr.com/agelxnash)
 [![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://career.habr.com/agelxnash)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://career.habr.com/agelxnash)
@@ -20,7 +20,7 @@
 [![Perl](https://img.shields.io/badge/perl-black?style=for-the-badge&logo=perl)](https://career.habr.com/agelxnash)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://career.habr.com/agelxnash)
 
-<h3>Technologies & Frameworks</h3>
+### Technologies & Frameworks
 [![MODX](https://img.shields.io/badge/modx-black?style=for-the-badge&logo=modx)](https://modx.com/blog/2013/02/08/introducing-the-modx-ambassadors/)
 [![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://www.youtube.com/watch?v=zv-nelkk23E)
 [![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://career.habr.com/agelxnash)
