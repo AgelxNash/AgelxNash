@@ -11,23 +11,23 @@
 </p>
 
 <h3>Languages</h3>
-<img src="https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5" />
-<img src="https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3" />
-<img src="https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/php-black?style=for-the-badge&logo=php" />
-<img src="https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white" />
-<img src="https://img.shields.io/badge/perl-black?style=for-the-badge&logo=perl" />
-<img src="https://img.shields.io/badge/python-black?style=for-the-badge&logo=python" />
+[![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://career.habr.com/agelxnash)
+[![CSS](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://career.habr.com/agelxnash)
+[![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://career.habr.com/agelxnash)
+[![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://career.habr.com/agelxnash)
+[![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://career.habr.com/agelxnash)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://career.habr.com/agelxnash)
+[![Perl](https://img.shields.io/badge/perl-black?style=for-the-badge&logo=perl)](https://career.habr.com/agelxnash)
+[![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://career.habr.com/agelxnash)
 
 <h3>Technologies & Frameworks</h3>
-<a href="https://modx.com/blog/2013/02/08/introducing-the-modx-ambassadors/"><img src="https://img.shields.io/badge/modx-black?style=for-the-badge&logo=modx" /></a>
-<a href="https://www.youtube.com/watch?v=zv-nelkk23E"><img src="https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel" /></a>
-<img src="https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony" />
-<img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql" />
-<img src="https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq" />
-<img src="https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis" />
-<img src="https://img.shields.io/badge/vagrant-black?style=for-the-badge&logo=vagrant" />
+[![MODX](https://img.shields.io/badge/modx-black?style=for-the-badge&logo=modx)](https://modx.com/blog/2013/02/08/introducing-the-modx-ambassadors/)
+[![Laravel](https://img.shields.io/badge/laravel-black?style=for-the-badge&logo=laravel)](https://www.youtube.com/watch?v=zv-nelkk23E)
+[![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://career.habr.com/agelxnash)
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://career.habr.com/agelxnash)
+[![RabbitMQ](https://img.shields.io/badge/rabbitmq-black?style=for-the-badge&logo=rabbitmq)](https://career.habr.com/agelxnash)
+[![REDIS](https://img.shields.io/badge/redis-black?style=for-the-badge&logo=redis)](https://career.habr.com/agelxnash)
+[![Vagrant](https://img.shields.io/badge/vagrant-black?style=for-the-badge&logo=vagrant)](https://career.habr.com/agelxnash)
 
 <br />
 <p align="center">
